@@ -5,5 +5,5 @@
 <Br><br><br>
 <H2>
 Credits</h2> <br>
-[TeamYukki](https://github.com/TeamYukki) for main repository.<br>
-[TrueShikari](t.me/TrueShikari) for making the repository supported on railway.
+<a href ="https://github.com/TeamYukki"> Team Yukki </a> for main repository.<br>
+<a href ="t.me/TrueShikari"> TrueShikari </a> for making the repository supported on railway.
