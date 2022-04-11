@@ -1,6 +1,6 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/0JxaDw?referralCode=q5lNUS)
 <h1> Config Supports:- <br></h1>
-[Configs for bot](https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config)
+<a href = "https://notreallyshikhar.gitbook.io/yukkimusicbot/setup-config/config"> Get all config related solutions </a>
 <br>
 
 Credits :- <br>
