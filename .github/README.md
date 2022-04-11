@@ -6,4 +6,4 @@
 <H2>
 Credits</h2> <br>
 <a href ="https://github.com/TeamYukki"> Team Yukki </a> for main repository.<br>
-<a href ="t.me/TrueShikari"> TrueShikari </a> for making the repository supported on railway.
+<a href ="https://t.me/TrueShikari"> TrueShikari </a> for making the repository supported on railway.
